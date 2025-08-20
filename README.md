@@ -63,4 +63,4 @@ Constantly exploring new technologies and aiming to make the web a better place.
 ---
 
 ```markdown
-💡 Motto: "Code, learn, improve — repeat!"
+💡 Motto: "Life IS like a box of chocolates, you never know what you're gonna get"
