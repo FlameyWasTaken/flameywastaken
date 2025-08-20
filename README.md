@@ -26,7 +26,7 @@ Constantly exploring new technologies and aiming to make the web a better place.
 ---
 
 ## 🛠 Tech Stack  
-- **Frontend:** HTML, CSS, JavaScript, React ⚛️  
+- **Langs:** HTML, CSS, JavaScript, React⚛️, Java, Python, SQL  
 - **Tools:** VSCode, Git, GitHub, Postman, ChatGPT, Deepseek, Gemini, Grok   
 - **Databases:** PostGreSQL, MySQL, MongoDB (non-relational)  
 - **API:** REST, external API integration  
