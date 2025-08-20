@@ -58,7 +58,7 @@ Constantly exploring new technologies and aiming to make the web a better place.
 ---
 
 ## 🌍 Languages  
-🇬🇧 English | 🇷🇺 Russian | 🇪🇸 Spanish (learning) | 🇩🇪 German (learning)  
+🇬🇧 English (Advanced) | 🇷🇺 Russian (Advanced) | 🇪🇸 Spanish (learning) | 🇩🇪 German (learning)  
 
 ---
 
