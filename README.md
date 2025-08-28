@@ -42,10 +42,10 @@ Constantly exploring new technologies and aiming to make the web a better place.
 ---
 
 ## 💼 Projects  
-🍗 **bOn** → Mr. Alanbekov assigned a page with the above mentioned name (parallax effect).
-🔍 **DMC Fandom** → Let your sight fall upon those charming and favorite characters of yours.
-🌐 **Pastel** → A big base of assets such as textures, models, SFX, etc., whether it's 2D/3D.
-📱 **Instagram API** → An instagram API which handles API limiter, authorization with validation, cyphering passwords, etc. .
+- 🍗 **bOn** → Mr. Alanbekov assigned a page with the above mentioned name (parallax effect).
+- 🔍 **DMC Fandom** → Let your sight fall upon those charming and favorite characters of yours.
+- 🌐 **Pastel** → A big base of assets such as textures, models, SFX, etc., whether it's 2D/3D.
+- 📱 **Instagram API** → An instagram API which handles API limiter, authorization with validation, cyphering passwords, etc. .
 
 📌 *More projects coming soon…*  
 
